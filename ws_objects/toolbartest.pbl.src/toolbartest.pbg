@@ -1,0 +1,8 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "toolbartest.pbl" "";
+@end;
+@begin Objects 
+ "toolbartest.sra" "toolbartest.pbl";
+ "w1.srw" "toolbartest.pbl";
+@end;
