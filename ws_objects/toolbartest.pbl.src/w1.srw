@@ -5,7 +5,7 @@ end type
 end forward
 
 global type w1 from window
-integer width = 3959
+integer width = 3958
 integer height = 1648
 boolean titlebar = true
 string title = "Untitled"
