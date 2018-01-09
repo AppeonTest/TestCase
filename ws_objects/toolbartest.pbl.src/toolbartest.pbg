@@ -5,4 +5,5 @@
 @begin Objects 
  "toolbartest.sra" "toolbartest.pbl";
  "w1.srw" "toolbartest.pbl";
+ 
 @end;
