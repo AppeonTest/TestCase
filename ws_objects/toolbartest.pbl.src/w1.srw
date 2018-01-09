@@ -10,7 +10,7 @@ end forward
 
 global type w1 from window
 integer width = 3959
-integer height = 1658
+integer height = 1660
 boolean titlebar = true
 string title = "Untitled"
 boolean controlmenu = true
@@ -36,6 +36,9 @@ on w1.destroy
 destroy(this.cb_2)
 destroy(this.cb_1)
 end on
+
+event open;//test
+end event
 
 type cb_2 from commandbutton within w1
 integer x = 731
