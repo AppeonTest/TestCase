@@ -37,7 +37,7 @@ destroy(this.cb_2)
 destroy(this.cb_1)
 end on
 
-event open;//test11
+event open;//testabc
 end event
 
 type cb_2 from commandbutton within w1
